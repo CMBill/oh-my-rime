@@ -13,10 +13,11 @@ build
 sync/
 
 # 自定义文件
-*.custom.yaml
+# *.custom.yaml
 
 # VSCode 项目文件
 *.code-workspace
+.vscode/
 
 # 语言模型文件
 *.gram
